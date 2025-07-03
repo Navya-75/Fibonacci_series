@@ -15,5 +15,3 @@ This is a simple web project to generate Fibonacci series up to a given number o
 1. Open `index.html` in a browser.
 2. Enter how many terms you want.
 3. Click "Generate" to see the result.
-
-## Made for learning purposes 🎓
